@@ -13,9 +13,9 @@ vk.access.token=YOUR_ACCESS_TOKEN
 
 ## Запуск
 
-1.Клонируйте репозиторий
-2.Соберите проект с помощью Maven (mvn clean install)
-3.Запустите приложение (mvn spring-boot:run)
-4.Запустите Ngrok для проброса локального сервера (ngrok http 8080)
-5.Настройте Callback API в вашей группе VK, используя URL, предоставленный Ngrok. (После URL необходимо дописать /callback, например: https://ngrok-url-example.app/callback)
+- Клонируйте репозиторий
+- Соберите проект с помощью Maven (mvn clean install)
+- Запустите приложение (mvn spring-boot:run)
+- Запустите Ngrok для проброса локального сервера (ngrok http 8080)
+- Настройте Callback API в вашей группе VK, используя URL, предоставленный Ngrok. (После URL необходимо дописать /callback, например: https://ngrok-url-example.app/callback)
 
