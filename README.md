@@ -19,4 +19,3 @@ vk.access.token=YOUR_ACCESS_TOKEN
 4.Запустите Ngrok для проброса локального сервера (ngrok http 8080)
 5.Настройте Callback API в вашей группе VK, используя URL, предоставленный Ngrok. (После URL необходимо дописать /callback, например: https://ngrok-url-example.app/callback)
 
-Настройте Callback API в вашей группе VK, используя URL, предоставленный Ngrok, например: https://12345678.ngrok.io/callback
